@@ -1,9 +1,10 @@
 body{
 	background: #bdbdbd;
+}
 
 .container{
   background: #ffffff;
-  display: flex
+  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -28,6 +29,7 @@ body{
   flex-direction: column;
   gap: 50px;
   margin-bottom: 60px;
+  margin-top: 10px;
 }
 
 .post{
